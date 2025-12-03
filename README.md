@@ -1,10 +1,15 @@
 # 🤖 WB Fines Monitor Bot
-Автоматизированная система мониторинга штрафов Wildberries. Бот отслеживает 
-новые финансовые санкции в личном кабинете поставщика WB и отправляет 
-мгновенные уведомления в Telegram.
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-yellow)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13+-blue)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-yellow?logo=python&logoColor=white)](https://www.python.org/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13%2B-blue?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.104%2B-teal?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Telegram](https://img.shields.io/badge/Telegram-Bot-blue?logo=telegram&logoColor=white)](https://core.telegram.org/bots)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey?logo=creativecommons&logoColor=white)](https://creativecommons.org/licenses/by/4.0/)
+[![GitHub Stars](https://img.shields.io/github/stars/BaikNadia/wb-fines-monitor?style=social)](https://github.com/BaikNadia/wb-fines-monitor)
+[![GitHub Issues](https://img.shields.io/github/issues/BaikNadia/wb-fines-monitor?color=orange)](https://github.com/BaikNadia/wb-fines-monitor/issues)
+
+**Автоматизированная система мониторинга штрафов Wildberries**  
+Бот отслеживает новые финансовые санкции в личном кабинете поставщика WB и отправляет мгновенные уведомления в Telegram.
 
 ## 🚀 Функциональность:
 Основные возможности
